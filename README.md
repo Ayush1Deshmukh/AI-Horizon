@@ -4,11 +4,10 @@ AI Horizon is a polished, high-performance directory listing over 50 curated Art
 
 ---
 
-## 🚀 Submission Details
+## Details
 
-*   **GitHub Repository:** [INSERT YOUR GITHUB REPO LINK HERE]
-*   **Live Vercel URL:** [INSERT YOUR VERCEL DEPLOYMENT LINK HERE]
-*   **Loom Walkthrough:** [INSERT YOUR LOOM VIDEO LINK HERE]
+*   **Live website URL:** https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221F7-Xm5ygOmAAqq-bCOhgzrxhKQfB5t5_%22%5D,%22action%22:%22open%22,%22userId%22:%22112089583234787518802%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+*   **Loom Walkthrough:** https://drive.google.com/file/d/17ZHHUJmxTchSZYzDlR3N-CEcbblyFaGF/view?usp=sharing
 
 ---
 
